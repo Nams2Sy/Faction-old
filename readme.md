@@ -1,0 +1,2 @@
+## Ancien système de création et de construction pour faction
+### Prochainement une nouvelle mise à jour sera publié en publique avec le .sql final, un systèmes de stockage en cache et surtout la structure général du script retravaillé.
